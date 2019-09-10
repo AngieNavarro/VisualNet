@@ -1,0 +1,11 @@
+/Users/mac/Desktop/SentenciaSwitch/bin/Debug/netcoreapp2.2/SentenciaSwitch.deps.json
+/Users/mac/Desktop/SentenciaSwitch/bin/Debug/netcoreapp2.2/SentenciaSwitch.runtimeconfig.json
+/Users/mac/Desktop/SentenciaSwitch/bin/Debug/netcoreapp2.2/SentenciaSwitch.runtimeconfig.dev.json
+/Users/mac/Desktop/SentenciaSwitch/bin/Debug/netcoreapp2.2/SentenciaSwitch.dll
+/Users/mac/Desktop/SentenciaSwitch/bin/Debug/netcoreapp2.2/SentenciaSwitch.pdb
+/Users/mac/Desktop/SentenciaSwitch/obj/Debug/netcoreapp2.2/SentenciaSwitch.csprojAssemblyReference.cache
+/Users/mac/Desktop/SentenciaSwitch/obj/Debug/netcoreapp2.2/SentenciaSwitch.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/SentenciaSwitch/obj/Debug/netcoreapp2.2/SentenciaSwitch.AssemblyInfoInputs.cache
+/Users/mac/Desktop/SentenciaSwitch/obj/Debug/netcoreapp2.2/SentenciaSwitch.AssemblyInfo.cs
+/Users/mac/Desktop/SentenciaSwitch/obj/Debug/netcoreapp2.2/SentenciaSwitch.dll
+/Users/mac/Desktop/SentenciaSwitch/obj/Debug/netcoreapp2.2/SentenciaSwitch.pdb
