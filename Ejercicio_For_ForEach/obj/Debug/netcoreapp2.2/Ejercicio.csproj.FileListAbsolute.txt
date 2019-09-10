@@ -1,0 +1,11 @@
+/Users/mac/Desktop/Ejercicio/obj/Debug/netcoreapp2.2/Ejercicio.csprojAssemblyReference.cache
+/Users/mac/Desktop/Ejercicio/obj/Debug/netcoreapp2.2/Ejercicio.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Ejercicio/obj/Debug/netcoreapp2.2/Ejercicio.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Ejercicio/obj/Debug/netcoreapp2.2/Ejercicio.AssemblyInfo.cs
+/Users/mac/Desktop/Ejercicio/bin/Debug/netcoreapp2.2/Ejercicio.deps.json
+/Users/mac/Desktop/Ejercicio/bin/Debug/netcoreapp2.2/Ejercicio.runtimeconfig.json
+/Users/mac/Desktop/Ejercicio/bin/Debug/netcoreapp2.2/Ejercicio.runtimeconfig.dev.json
+/Users/mac/Desktop/Ejercicio/bin/Debug/netcoreapp2.2/Ejercicio.dll
+/Users/mac/Desktop/Ejercicio/bin/Debug/netcoreapp2.2/Ejercicio.pdb
+/Users/mac/Desktop/Ejercicio/obj/Debug/netcoreapp2.2/Ejercicio.dll
+/Users/mac/Desktop/Ejercicio/obj/Debug/netcoreapp2.2/Ejercicio.pdb
