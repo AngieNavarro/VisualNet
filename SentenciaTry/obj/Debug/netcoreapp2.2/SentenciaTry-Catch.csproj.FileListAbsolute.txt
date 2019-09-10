@@ -1,0 +1,11 @@
+/Users/mac/Desktop/SentenciaTry-Catch/bin/Debug/netcoreapp2.2/SentenciaTry-Catch.deps.json
+/Users/mac/Desktop/SentenciaTry-Catch/bin/Debug/netcoreapp2.2/SentenciaTry-Catch.runtimeconfig.json
+/Users/mac/Desktop/SentenciaTry-Catch/bin/Debug/netcoreapp2.2/SentenciaTry-Catch.runtimeconfig.dev.json
+/Users/mac/Desktop/SentenciaTry-Catch/bin/Debug/netcoreapp2.2/SentenciaTry-Catch.dll
+/Users/mac/Desktop/SentenciaTry-Catch/bin/Debug/netcoreapp2.2/SentenciaTry-Catch.pdb
+/Users/mac/Desktop/SentenciaTry-Catch/obj/Debug/netcoreapp2.2/SentenciaTry-Catch.csprojAssemblyReference.cache
+/Users/mac/Desktop/SentenciaTry-Catch/obj/Debug/netcoreapp2.2/SentenciaTry-Catch.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/SentenciaTry-Catch/obj/Debug/netcoreapp2.2/SentenciaTry-Catch.AssemblyInfoInputs.cache
+/Users/mac/Desktop/SentenciaTry-Catch/obj/Debug/netcoreapp2.2/SentenciaTry-Catch.AssemblyInfo.cs
+/Users/mac/Desktop/SentenciaTry-Catch/obj/Debug/netcoreapp2.2/SentenciaTry-Catch.dll
+/Users/mac/Desktop/SentenciaTry-Catch/obj/Debug/netcoreapp2.2/SentenciaTry-Catch.pdb
