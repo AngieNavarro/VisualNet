@@ -1,0 +1,11 @@
+/Users/mac/Desktop/SentenciaIF/bin/Debug/netcoreapp2.2/SentenciaIF.deps.json
+/Users/mac/Desktop/SentenciaIF/bin/Debug/netcoreapp2.2/SentenciaIF.runtimeconfig.json
+/Users/mac/Desktop/SentenciaIF/bin/Debug/netcoreapp2.2/SentenciaIF.runtimeconfig.dev.json
+/Users/mac/Desktop/SentenciaIF/bin/Debug/netcoreapp2.2/SentenciaIF.dll
+/Users/mac/Desktop/SentenciaIF/bin/Debug/netcoreapp2.2/SentenciaIF.pdb
+/Users/mac/Desktop/SentenciaIF/obj/Debug/netcoreapp2.2/SentenciaIF.csprojAssemblyReference.cache
+/Users/mac/Desktop/SentenciaIF/obj/Debug/netcoreapp2.2/SentenciaIF.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/SentenciaIF/obj/Debug/netcoreapp2.2/SentenciaIF.AssemblyInfoInputs.cache
+/Users/mac/Desktop/SentenciaIF/obj/Debug/netcoreapp2.2/SentenciaIF.AssemblyInfo.cs
+/Users/mac/Desktop/SentenciaIF/obj/Debug/netcoreapp2.2/SentenciaIF.dll
+/Users/mac/Desktop/SentenciaIF/obj/Debug/netcoreapp2.2/SentenciaIF.pdb
