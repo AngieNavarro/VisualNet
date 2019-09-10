@@ -1,0 +1,11 @@
+/Users/mac/Desktop/SentenciaForEach/bin/Debug/netcoreapp2.2/SentenciaForEach.deps.json
+/Users/mac/Desktop/SentenciaForEach/bin/Debug/netcoreapp2.2/SentenciaForEach.runtimeconfig.json
+/Users/mac/Desktop/SentenciaForEach/bin/Debug/netcoreapp2.2/SentenciaForEach.runtimeconfig.dev.json
+/Users/mac/Desktop/SentenciaForEach/bin/Debug/netcoreapp2.2/SentenciaForEach.dll
+/Users/mac/Desktop/SentenciaForEach/bin/Debug/netcoreapp2.2/SentenciaForEach.pdb
+/Users/mac/Desktop/SentenciaForEach/obj/Debug/netcoreapp2.2/SentenciaForEach.csprojAssemblyReference.cache
+/Users/mac/Desktop/SentenciaForEach/obj/Debug/netcoreapp2.2/SentenciaForEach.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/SentenciaForEach/obj/Debug/netcoreapp2.2/SentenciaForEach.AssemblyInfoInputs.cache
+/Users/mac/Desktop/SentenciaForEach/obj/Debug/netcoreapp2.2/SentenciaForEach.AssemblyInfo.cs
+/Users/mac/Desktop/SentenciaForEach/obj/Debug/netcoreapp2.2/SentenciaForEach.dll
+/Users/mac/Desktop/SentenciaForEach/obj/Debug/netcoreapp2.2/SentenciaForEach.pdb
