@@ -1,0 +1,11 @@
+/Users/mac/Desktop/Empleado/bin/Debug/netcoreapp2.2/Empleado.deps.json
+/Users/mac/Desktop/Empleado/bin/Debug/netcoreapp2.2/Empleado.runtimeconfig.json
+/Users/mac/Desktop/Empleado/bin/Debug/netcoreapp2.2/Empleado.runtimeconfig.dev.json
+/Users/mac/Desktop/Empleado/bin/Debug/netcoreapp2.2/Empleado.dll
+/Users/mac/Desktop/Empleado/bin/Debug/netcoreapp2.2/Empleado.pdb
+/Users/mac/Desktop/Empleado/obj/Debug/netcoreapp2.2/Empleado.csprojAssemblyReference.cache
+/Users/mac/Desktop/Empleado/obj/Debug/netcoreapp2.2/Empleado.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Empleado/obj/Debug/netcoreapp2.2/Empleado.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Empleado/obj/Debug/netcoreapp2.2/Empleado.AssemblyInfo.cs
+/Users/mac/Desktop/Empleado/obj/Debug/netcoreapp2.2/Empleado.dll
+/Users/mac/Desktop/Empleado/obj/Debug/netcoreapp2.2/Empleado.pdb
