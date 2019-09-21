@@ -1,0 +1,11 @@
+/Users/mac/Desktop/Universidad/bin/Debug/netcoreapp2.2/Universidad.deps.json
+/Users/mac/Desktop/Universidad/bin/Debug/netcoreapp2.2/Universidad.runtimeconfig.json
+/Users/mac/Desktop/Universidad/bin/Debug/netcoreapp2.2/Universidad.runtimeconfig.dev.json
+/Users/mac/Desktop/Universidad/bin/Debug/netcoreapp2.2/Universidad.dll
+/Users/mac/Desktop/Universidad/bin/Debug/netcoreapp2.2/Universidad.pdb
+/Users/mac/Desktop/Universidad/obj/Debug/netcoreapp2.2/Universidad.csprojAssemblyReference.cache
+/Users/mac/Desktop/Universidad/obj/Debug/netcoreapp2.2/Universidad.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Universidad/obj/Debug/netcoreapp2.2/Universidad.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Universidad/obj/Debug/netcoreapp2.2/Universidad.AssemblyInfo.cs
+/Users/mac/Desktop/Universidad/obj/Debug/netcoreapp2.2/Universidad.dll
+/Users/mac/Desktop/Universidad/obj/Debug/netcoreapp2.2/Universidad.pdb
