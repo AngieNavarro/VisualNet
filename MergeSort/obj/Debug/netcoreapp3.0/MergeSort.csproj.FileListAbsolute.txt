@@ -1,0 +1,11 @@
+/Users/mac/Desktop/MergeSort/bin/Debug/netcoreapp3.0/MergeSort
+/Users/mac/Desktop/MergeSort/bin/Debug/netcoreapp3.0/MergeSort.deps.json
+/Users/mac/Desktop/MergeSort/bin/Debug/netcoreapp3.0/MergeSort.runtimeconfig.json
+/Users/mac/Desktop/MergeSort/bin/Debug/netcoreapp3.0/MergeSort.runtimeconfig.dev.json
+/Users/mac/Desktop/MergeSort/bin/Debug/netcoreapp3.0/MergeSort.dll
+/Users/mac/Desktop/MergeSort/bin/Debug/netcoreapp3.0/MergeSort.pdb
+/Users/mac/Desktop/MergeSort/obj/Debug/netcoreapp3.0/MergeSort.csprojAssemblyReference.cache
+/Users/mac/Desktop/MergeSort/obj/Debug/netcoreapp3.0/MergeSort.AssemblyInfoInputs.cache
+/Users/mac/Desktop/MergeSort/obj/Debug/netcoreapp3.0/MergeSort.AssemblyInfo.cs
+/Users/mac/Desktop/MergeSort/obj/Debug/netcoreapp3.0/MergeSort.dll
+/Users/mac/Desktop/MergeSort/obj/Debug/netcoreapp3.0/MergeSort.pdb

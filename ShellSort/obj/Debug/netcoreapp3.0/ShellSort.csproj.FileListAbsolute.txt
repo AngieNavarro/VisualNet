@@ -1,0 +1,11 @@
+/Users/mac/Desktop/ShellSort/obj/Debug/netcoreapp3.0/ShellSort.csprojAssemblyReference.cache
+/Users/mac/Desktop/ShellSort/obj/Debug/netcoreapp3.0/ShellSort.AssemblyInfoInputs.cache
+/Users/mac/Desktop/ShellSort/obj/Debug/netcoreapp3.0/ShellSort.AssemblyInfo.cs
+/Users/mac/Desktop/ShellSort/bin/Debug/netcoreapp3.0/ShellSort
+/Users/mac/Desktop/ShellSort/bin/Debug/netcoreapp3.0/ShellSort.deps.json
+/Users/mac/Desktop/ShellSort/bin/Debug/netcoreapp3.0/ShellSort.runtimeconfig.json
+/Users/mac/Desktop/ShellSort/bin/Debug/netcoreapp3.0/ShellSort.runtimeconfig.dev.json
+/Users/mac/Desktop/ShellSort/bin/Debug/netcoreapp3.0/ShellSort.dll
+/Users/mac/Desktop/ShellSort/bin/Debug/netcoreapp3.0/ShellSort.pdb
+/Users/mac/Desktop/ShellSort/obj/Debug/netcoreapp3.0/ShellSort.dll
+/Users/mac/Desktop/ShellSort/obj/Debug/netcoreapp3.0/ShellSort.pdb

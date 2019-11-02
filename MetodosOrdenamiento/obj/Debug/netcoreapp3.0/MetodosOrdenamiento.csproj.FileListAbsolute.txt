@@ -1,0 +1,11 @@
+/Users/mac/Desktop/MetodosOrdenamiento/obj/Debug/netcoreapp3.0/MetodosOrdenamiento.csprojAssemblyReference.cache
+/Users/mac/Desktop/MetodosOrdenamiento/obj/Debug/netcoreapp3.0/MetodosOrdenamiento.AssemblyInfoInputs.cache
+/Users/mac/Desktop/MetodosOrdenamiento/obj/Debug/netcoreapp3.0/MetodosOrdenamiento.AssemblyInfo.cs
+/Users/mac/Desktop/MetodosOrdenamiento/bin/Debug/netcoreapp3.0/MetodosOrdenamiento
+/Users/mac/Desktop/MetodosOrdenamiento/bin/Debug/netcoreapp3.0/MetodosOrdenamiento.deps.json
+/Users/mac/Desktop/MetodosOrdenamiento/bin/Debug/netcoreapp3.0/MetodosOrdenamiento.runtimeconfig.json
+/Users/mac/Desktop/MetodosOrdenamiento/bin/Debug/netcoreapp3.0/MetodosOrdenamiento.runtimeconfig.dev.json
+/Users/mac/Desktop/MetodosOrdenamiento/bin/Debug/netcoreapp3.0/MetodosOrdenamiento.dll
+/Users/mac/Desktop/MetodosOrdenamiento/bin/Debug/netcoreapp3.0/MetodosOrdenamiento.pdb
+/Users/mac/Desktop/MetodosOrdenamiento/obj/Debug/netcoreapp3.0/MetodosOrdenamiento.dll
+/Users/mac/Desktop/MetodosOrdenamiento/obj/Debug/netcoreapp3.0/MetodosOrdenamiento.pdb

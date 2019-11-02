@@ -1,0 +1,11 @@
+/Users/mac/Desktop/Calculadora/bin/Debug/netcoreapp3.0/Calculadora
+/Users/mac/Desktop/Calculadora/bin/Debug/netcoreapp3.0/Calculadora.deps.json
+/Users/mac/Desktop/Calculadora/bin/Debug/netcoreapp3.0/Calculadora.runtimeconfig.json
+/Users/mac/Desktop/Calculadora/bin/Debug/netcoreapp3.0/Calculadora.runtimeconfig.dev.json
+/Users/mac/Desktop/Calculadora/bin/Debug/netcoreapp3.0/Calculadora.dll
+/Users/mac/Desktop/Calculadora/bin/Debug/netcoreapp3.0/Calculadora.pdb
+/Users/mac/Desktop/Calculadora/obj/Debug/netcoreapp3.0/Calculadora.csprojAssemblyReference.cache
+/Users/mac/Desktop/Calculadora/obj/Debug/netcoreapp3.0/Calculadora.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Calculadora/obj/Debug/netcoreapp3.0/Calculadora.AssemblyInfo.cs
+/Users/mac/Desktop/Calculadora/obj/Debug/netcoreapp3.0/Calculadora.dll
+/Users/mac/Desktop/Calculadora/obj/Debug/netcoreapp3.0/Calculadora.pdb

@@ -1,0 +1,11 @@
+/Users/mac/Desktop/QuickSort/obj/Debug/netcoreapp3.0/QuickSort.csprojAssemblyReference.cache
+/Users/mac/Desktop/QuickSort/obj/Debug/netcoreapp3.0/QuickSort.AssemblyInfoInputs.cache
+/Users/mac/Desktop/QuickSort/obj/Debug/netcoreapp3.0/QuickSort.AssemblyInfo.cs
+/Users/mac/Desktop/QuickSort/bin/Debug/netcoreapp3.0/QuickSort
+/Users/mac/Desktop/QuickSort/bin/Debug/netcoreapp3.0/QuickSort.deps.json
+/Users/mac/Desktop/QuickSort/bin/Debug/netcoreapp3.0/QuickSort.runtimeconfig.json
+/Users/mac/Desktop/QuickSort/bin/Debug/netcoreapp3.0/QuickSort.runtimeconfig.dev.json
+/Users/mac/Desktop/QuickSort/bin/Debug/netcoreapp3.0/QuickSort.dll
+/Users/mac/Desktop/QuickSort/bin/Debug/netcoreapp3.0/QuickSort.pdb
+/Users/mac/Desktop/QuickSort/obj/Debug/netcoreapp3.0/QuickSort.dll
+/Users/mac/Desktop/QuickSort/obj/Debug/netcoreapp3.0/QuickSort.pdb
